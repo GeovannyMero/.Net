@@ -1,0 +1,16 @@
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.exe
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.deps.json
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.runtimeconfig.json
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.runtimeconfig.dev.json
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.dll
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\ref\AppSingleton.dll
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\bin\Debug\net5.0\AppSingleton.pdb
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.csproj.AssemblyReference.cache
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.AssemblyInfoInputs.cache
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.AssemblyInfo.cs
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.dll
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\ref\AppSingleton.dll
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.pdb
+C:\Users\jeffe\source\repos\.Net\PatronesDiseño\Creacionales\Singleton\AppSingleton\obj\Debug\net5.0\AppSingleton.genruntimeconfig.cache
